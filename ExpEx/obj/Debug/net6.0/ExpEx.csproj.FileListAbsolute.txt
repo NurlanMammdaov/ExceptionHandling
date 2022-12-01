@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\bin\Debug\net6.0\ExpEx.exe
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\bin\Debug\net6.0\ExpEx.deps.json
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\bin\Debug\net6.0\ExpEx.runtimeconfig.json
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\bin\Debug\net6.0\ExpEx.dll
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\bin\Debug\net6.0\ExpEx.pdb
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ExpEx.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ExpEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ExpEx.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ExpEx.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ExpEx.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ExpEx.dll
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\refint\ExpEx.dll
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ExpEx.pdb
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ExpEx.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ExpEx\ExpEx\obj\Debug\net6.0\ref\ExpEx.dll
